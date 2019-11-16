@@ -1,5 +1,6 @@
 ## Coming Soon Website Template
 
+Demo can be found [here](https://coming-soon.labskenya.com)
 #### Quick setup
 - Clone the repo 
 ```
